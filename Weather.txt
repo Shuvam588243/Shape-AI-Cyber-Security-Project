@@ -1,0 +1,10 @@
+
+ -------------WEATHER REPORT------------------------ 
+
+ Weather Stats of Guwahati at 22 Jun 2021 | 03:59:39 PM
+ 
+ Current Temperature : 26.95 deg C
+ Current Humity : 83%
+ Current Wind Speed : 0kmph
+ 
+ ---------------------------------------- 
